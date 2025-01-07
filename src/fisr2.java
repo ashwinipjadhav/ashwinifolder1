@@ -4,8 +4,5 @@ public class fisr2 {
         System.out.println("hushar ash");
         System.out.println("husharh");
         System.out.println("husharh");
-
-
-
     }
 }
