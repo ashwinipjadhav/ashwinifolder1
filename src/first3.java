@@ -3,6 +3,8 @@ public class first3 {
 
     System.out.println("ashu jadhav");
     System.out.println("ashu jadhav");
+    System.out.println(" jadhav");
+
 
   }
 
